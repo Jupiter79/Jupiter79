@@ -1,7 +1,7 @@
 ## Hi there!
 ### I am a 16 years old student who likes to code
-
-
+<br/>
+<br/>
 ```js
 const SKILLS = [];
 
