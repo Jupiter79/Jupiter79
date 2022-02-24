@@ -1,6 +1,6 @@
 ## Hi there!
 ### I am a 16 years old student who likes to code
-
+![Alt Text](https://github.com/Jupiter79/Jupiter79/blob/main/video.gif?raw=true)
 ```js
 const SKILLS = [];
 
